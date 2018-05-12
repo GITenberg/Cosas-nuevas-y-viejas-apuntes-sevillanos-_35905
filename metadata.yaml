@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '37973'
     url: http://www.gutenberg.org/2009/agents/37973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35905#Cosas-nuevas-y-viejas-apuntes-sevillanos-
 gutenberg_issued: '2011-04-19'
 gutenberg_type: Text
 identifiers:
