@@ -1,0 +1,40 @@
+_repo: Cosas-nuevas-y-viejas-apuntes-sevillanos-_35905
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Nogales, José
+    aliases:
+    - Nogales, José Nogales y
+    - Nogales, Jose
+    birthdate: 1860
+    deathdate: 1908
+    gutenberg_agent_id: '37974'
+    url: http://www.gutenberg.org/2009/agents/37974
+covers:
+- cover_type: archival
+  image_path: 35905-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chaves Rey, Manuel
+    aliases:
+    - Chaves, Manuel
+    - Rey, Manuel Chaves
+    birthdate: 1870
+    deathdate: 1914
+    gutenberg_agent_id: '37973'
+    url: http://www.gutenberg.org/2009/agents/37973
+description: ''
+gutenberg_issued: '2011-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35905'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seville (Spain) -- History'
+- !lcsh 'Seville (Spain) -- Biography'
+- !lcc 'DP'
+title: Cosas nuevas y viejas (apuntes sevillanos)
+url: http://www.gutenberg.org/ebooks/35905
